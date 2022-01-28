@@ -7,7 +7,7 @@ The application consists of a logic game whose objective is to slay the monster 
 <img src="ProjetoMonstro.png">
 
 <h3>To-do List</h3>
-This To-do List tool allows you to create new ones, mark them as complete and show a progress bar according to the number of completions. Creating tasks with duplicate names is not allowed, and all data is written to localStorage.<br>
+This To-do List tool allows you to create new ones, mark them as complete and shows a progress bar according to the number of completions. Creating tasks with duplicate names is not allowed, and all data is written to localStorage.<br>
 <br>
 <img src="ProjetoTarefas.png">
 
