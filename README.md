@@ -3,3 +3,9 @@ Notes and projects developed in the "Vue JS 2 - O Guia Completo (incl. Vue Route
 
 <h3>Monster Slayer</h3>
 <img src="ProjetoMonstro.png">
+
+<h3>To-do List</h3>
+<img src="ProjetoTarefas.png">
+
+<h3>Stock Trader</h3>
+<img src="ProjetoAcoes.png">
