@@ -12,6 +12,6 @@ This To-do List tool allows you to create new ones, mark them as complete and sh
 <img src="ProjetoTarefas.png">
 
 <h3>Stock Trader</h3>
-The idea is an application that simulates trading and stock queries, you have a balance and can choose to buy or sell them. The moment you click on "Finalizar dia" it goes add or subtract over the value of the action so that this action can fluctuate in a random way.<br>
+The idea is an application that simulates trading and stock queries, you have a balance and can choose to buy or sell them. The moment you click on "Finalizar dia" it goes add or subtract over the value of the actions so that these actions can fluctuate in a random way.<br>
 <br>
 <img src="ProjetoAcoes.png">
